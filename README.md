@@ -17,5 +17,4 @@ This repo is dedicated to sharing a community story with Tines from Helios Softw
 2. Tines is hosted `in-region` and **NO DATA IS TO BE SHARED EXTERNALLY WITH AI** as means of compliance (hence the local AI model only)
 3. Tines kicks-off with a page (yes, you can design a webpage without having to write HTML) and allows users to pick the available local models; and subsequently, ask questions / interact with it
 
-
-![tines_story_board](storyboard_image/Talk to Me (your self hosted AI)-storyboard.png)
+![tines_story_board](https://github.com/helios-solution/You-Did-What-With-Tines-Spring-2025/blob/main/storyboard_image/Talk%20to%20Me%20(your%20self%20hosted%20AI)-storyboard.png?raw=true)

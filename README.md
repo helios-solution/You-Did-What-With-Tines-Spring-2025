@@ -18,3 +18,4 @@ This repo is dedicated to sharing a community story with Tines from Helios Softw
 3. Tines kicks-off with a page (yes, you can design a webpage without having to write HTML) and allows users to pick the available local models; and subsequently, ask questions / interact with it
 
 
+![tines_story_board](storyboard_image/Talk to Me (your self hosted AI)-storyboard.png)
